@@ -1,13 +1,11 @@
 
 # Parallelising NSW Search Algorithm
 
-This is mini research project which is done in group of two which is done under guidance of [Dr.Sathya Peri](https://people.iith.ac.in/sathya_p/). In this research project we have come up with a parallel version for search algorithm in NSW graphs.
+This is mini research project which is done under guidance of [Dr.Sathya Peri](https://people.iith.ac.in/sathya_p/). In this research project I have come up with a parallel version for search algorithm in NSW graphs.
 
 ## Team
 
 - [@anudeep512](https://www.github.com/anudeep512)
-- [@Killomany](https://github.com/Killomanny)
-
 
 ## About the File structure
 
